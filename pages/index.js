@@ -14,12 +14,12 @@ const Home = () => {
         </Link>
       </li>
       <li>
-        <Link href="/pruebas_id">
-          <a>Pruebas de ids dinamicos</a>
+        <Link href="/pokemon">
+          <a>Lista de pokemon</a>
         </Link>
       </li>
     </ul>
   );
-}
+};
 
-export default Home
+export default Home;

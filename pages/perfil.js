@@ -1,5 +1,5 @@
-const Perfil = () =>{
-    return <div>¡Bienvenido a mi perfil!</div>;
-}
+const Perfil = () => {
+  return <div>¡Bienvenido a mi perfil!</div>;
+};
 
-export default Perfil
+export default Perfil;
